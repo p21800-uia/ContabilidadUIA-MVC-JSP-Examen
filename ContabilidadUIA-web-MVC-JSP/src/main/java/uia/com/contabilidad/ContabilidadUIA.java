@@ -108,4 +108,10 @@ public class ContabilidadUIA {
 			// TODO Auto-generated method stub
 			return null;
 		}
+		
+		public void pruebaCommit()
+		{
+			
+		}
+		
 }
